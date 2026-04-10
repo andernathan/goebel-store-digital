@@ -18,7 +18,7 @@ const VirtualTourSection = () => {
             allow="xr-spatial-tracking; gyroscope; accelerometer"
             allowFullScreen
             scrolling="no"
-            src="https://kuula.co/share/collection/7MTgg?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1&startItem=5"
+            src="https://kuula.co/share/LfH46/collection/7MTgg?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1"
             title="Goebel Store 360° Virtual Tour"
           />
         </div>
